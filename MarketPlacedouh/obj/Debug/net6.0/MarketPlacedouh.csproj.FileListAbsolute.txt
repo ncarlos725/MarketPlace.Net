@@ -1,0 +1,102 @@
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\appsettings.json
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\MarketPlacedouh.exe
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\MarketPlacedouh.deps.json
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\MarketPlacedouh.runtimeconfig.json
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\MarketPlacedouh.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\MarketPlacedouh.pdb
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.AssemblyInfo.cs
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\staticwebassets\msbuild.MarketPlacedouh.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\staticwebassets\msbuild.build.MarketPlacedouh.props
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MarketPlacedouh.props
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MarketPlacedouh.props
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\scopedcss\bundle\MarketPlacedouh.styles.css
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.csproj.CopyComplete
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\refint\MarketPlacedouh.dll
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.pdb
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.genruntimeconfig.cache
+C:\Users\Carlo\source\repos\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\ref\MarketPlacedouh.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.csproj.AssemblyReference.cache
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.AssemblyInfoInputs.cache
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.AssemblyInfo.cs
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\appsettings.json
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\MarketPlacedouh.exe
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\MarketPlacedouh.deps.json
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\MarketPlacedouh.runtimeconfig.json
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\MarketPlacedouh.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\MarketPlacedouh.pdb
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\staticwebassets\msbuild.MarketPlacedouh.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\staticwebassets\msbuild.build.MarketPlacedouh.props
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MarketPlacedouh.props
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MarketPlacedouh.props
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\scopedcss\bundle\MarketPlacedouh.styles.css
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.csproj.CopyComplete
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\refint\MarketPlacedouh.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.pdb
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\MarketPlacedouh.genruntimeconfig.cache
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\obj\Debug\net6.0\ref\MarketPlacedouh.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carlo\Documents\bck por las dudas\MarketPlacedouh\MarketPlacedouh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
