@@ -33,6 +33,7 @@ namespace MarketPlacedouh.Recursos
             }
             catch (Exception ex)
             {
+                Console.WriteLine($"Error: {ex.Message}"); // AGREGO ESO PARA VER EL ERROR 
                 return null;
             }
             finally

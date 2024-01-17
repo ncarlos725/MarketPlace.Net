@@ -54,7 +54,7 @@ namespace MarketPlacedouh.Controllers
             return new
             {
                 success = exito,
-                message = exito ? "exito" :"Error al guardar hdlagranputa",
+                message = exito ? "exito" :"Error al guardar asfdsad",
                 result = ""
               
             };
